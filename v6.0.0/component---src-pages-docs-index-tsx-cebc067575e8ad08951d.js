@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_components_docs=self.webpackChunkreact_components_docs||[]).push([[4347],{89660:function(e,t,n){n.r(t);var c=n(27378),s=n(25414),o=c.memo((function(){return c.useEffect((function(){(0,s.navigate)("/docs/getting-started")}),[]),null}));t.default=o}}]);
+//# sourceMappingURL=component---src-pages-docs-index-tsx-cebc067575e8ad08951d.js.map
